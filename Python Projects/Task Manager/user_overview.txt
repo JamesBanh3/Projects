@@ -1,0 +1,69 @@
+
+---------------------------------
+Number of users: 	 7
+Number of tasks: 	 15
+---------------------------------
+                                 
+------------------------------------------
+>>>>>>>>>>>>>>>>   admin   <<<<<<<<<<<<<<
+Number of tasks:                 5
+Percentage of task assigned:     33%
+Percentage of task completed:    60%
+Percentage of task uncompleted:  40%
+Percentage of task overdue:      50%
+------------------------------------------
+                                 
+------------------------------------------
+>>>>>>>>>>>>>>>>   keyboard   <<<<<<<<<<<<<<
+Number of tasks:                 0
+Percentage of task assigned:     %
+Percentage of task completed:    %
+Percentage of task uncompleted:  %
+Percentage of task overdue:      %
+------------------------------------------
+                                 
+------------------------------------------
+>>>>>>>>>>>>>>>>   alpha   <<<<<<<<<<<<<<
+Number of tasks:                 4
+Percentage of task assigned:     27%
+Percentage of task completed:    25%
+Percentage of task uncompleted:  75%
+Percentage of task overdue:      67%
+------------------------------------------
+                                 
+------------------------------------------
+>>>>>>>>>>>>>>>>   beta   <<<<<<<<<<<<<<
+Number of tasks:                 4
+Percentage of task assigned:     27%
+Percentage of task completed:    25%
+Percentage of task uncompleted:  75%
+Percentage of task overdue:      100%
+------------------------------------------
+                                 
+------------------------------------------
+>>>>>>>>>>>>>>>>   delta   <<<<<<<<<<<<<<
+Number of tasks:                 0
+Percentage of task assigned:     %
+Percentage of task completed:    %
+Percentage of task uncompleted:  %
+Percentage of task overdue:      %
+------------------------------------------
+                                 
+------------------------------------------
+>>>>>>>>>>>>>>>>   ryu   <<<<<<<<<<<<<<
+Number of tasks:                 1
+Percentage of task assigned:     7%
+Percentage of task completed:    0%
+Percentage of task uncompleted:  100%
+Percentage of task overdue:      100%
+------------------------------------------
+                                 
+------------------------------------------
+>>>>>>>>>>>>>>>>   ken   <<<<<<<<<<<<<<
+Number of tasks:                 1
+Percentage of task assigned:     7%
+Percentage of task completed:    0%
+Percentage of task uncompleted:  100%
+Percentage of task overdue:      0%
+------------------------------------------
+                                 
